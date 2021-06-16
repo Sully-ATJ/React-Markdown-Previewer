@@ -1,0 +1,33 @@
+body{
+  margin:0;
+  padding:0;
+  background-color:#ee5253;
+}
+
+.wrapper{
+  margin-bottom:30px;
+}
+
+.heady{
+  color:#000;
+}
+
+.editor{
+  border-top:none;
+  border-left:none;
+  border-bottom:none;
+  min-height:70vh;
+  width:100%;
+}
+
+.preview{
+  background-color:white;
+  min-height:70vh;
+  width:100%;
+}
+
+img{
+  height:200px;
+  
+}
+
